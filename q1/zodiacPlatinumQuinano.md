@@ -59,4 +59,4 @@ print(f"Your chinese zodiac sign is: {zodiac_sign}")
 ## Output
 Screenshot:
 
-![Chinese Zodiac Code Output](<img width="2048" height="1379" alt="image" src="https://github.com/user-attachments/assets/f778c543-f383-4de7-bba1-f14eff7f9c31" />)
+<img width="2048" height="1379" alt="image" src="https://github.com/user-attachments/assets/f778c543-f383-4de7-bba1-f14eff7f9c31" />
