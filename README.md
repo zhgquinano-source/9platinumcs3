@@ -1,6 +1,6 @@
 # 9platinumcs3
 # Computer Science 3 Portfolio
-## Info about me
+## Info about me :)
 **Name:** Zach Henrie G. Quinano
 **Section:** Platinum
 **School Year:** 2026-2027
