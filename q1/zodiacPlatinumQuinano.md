@@ -29,3 +29,34 @@ Enter your birth year: 2000
 Your Chinese Zodiac Sign is: Dragon (龙 / Lóng)
 
 ## Code:
+try:
+    birth_year = int(input("Enter your birth year: "))
+except ValueError:
+    print("Invalid input. Please enter a valid year.")
+    sys.exit()
+
+if birth_year < 1900:
+    print("Invalid year, it should not be earlier than 1900.")
+    sys.exit()
+
+zodiac_signs = ["Rat (鼠 / Shǔ)", 
+"Ox (牛 / Niú)",   
+"Tiger (虎 / Hǔ)", 
+"Rabbit (兔 / Tù)", 
+"Dragon (龙 / Lóng)", 
+"Snake (蛇 / Shé)", 
+"Horse (马 / Mǎ)", 
+"Goat (羊 / Yáng)", 
+"Monkey (猴 / Hóu)", 
+"Rooster (鸡 / Jī)", 
+"Dog (狗 / Gǒu)", 
+ "Pig (猪 / Zhū)"]
+
+index = (birth_year - 1900) % 12
+zodiac_sign = zodiac_signs[index]
+print(f"Your chinese zodiac sign is: {zodiac_sign}")
+
+## Output
+Screenshot:
+
+![Chinese Zodiac Code Output](<img width="2048" height="1428" alt="download" src="https://github.com/user-attachments/assets/6b82af38-f265-420b-bccc-70b85f4ab0e7" />)
