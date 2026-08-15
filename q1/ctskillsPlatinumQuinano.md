@@ -28,24 +28,24 @@ The PSHS school canteen ordering and payment process is slow and inefficient, le
 ### Selected Sub-Problem
 Manual transaction delays
 ### Pseudocode
-START
-SET total_cost = 0
-  
-  WHILE student is adding items DO
-    INPUT item_price
+Start
+set total_cost = 0
+
+  while student is adding items do
+    input item_price
     total_cost = total_cost + item_price
-  END WHILE
+  end while
   
-  DISPLAY total_cost
+  display total_cost
   
-  INPUT payment_amount
+  input payment_amount
   
-  IF payment_amount >= total_cost THEN
+  if payment_amount >= total_cost then
     change_due = payment_amount - total_cost
-    DISPLAY "Transaction Successful"
-    DISPLAY "Change Due: " + change_due
-  ELSE
-    DISPLAY " insufficient payment, please pay the total amount"
-  END IF
+    display "transaction successful"
+    display "change due: " + change_due
+  else
+    display " insufficient payment, please pay the total amount"
+  end if
 END
 ---
