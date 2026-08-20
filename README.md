@@ -12,4 +12,4 @@
 [View my Computational Thinking Exercise:p](q1/ctskillsPlatinumQuinano.md)
 
 ### Chinese Zodiac
-[View my Chinese Zodiac Activity:p](q1/ctskillsPlatinumQuinano.md)
+[View my Chinese Zodiac Activity:p](q1/zodiacPlatinumQuinano.md)
