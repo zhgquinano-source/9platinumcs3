@@ -14,5 +14,5 @@
 ### Chinese Zodiac
 [View my Chinese Zodiac Activity:>](q1/zodiacPlatinumQuinano.md)
 
-### OOP concept
-[ILA 3-1: Applying the Four Pillars of OOP:]](q1/ila_oop.md)
+### OOP 
+[ILA 3-1: Applying the Four Pillars of OOP:D](q1/ila_oop.md)
