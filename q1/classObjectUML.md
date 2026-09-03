@@ -1,17 +1,17 @@
 # SG4 - Understanding Classes and Objects
 ## Class Name
-Bands
+Songs
 
 ## Class Description
-Bands are a group of people who make music
+A short piece of music with words that people sing
 
 ## Properties
 | Property | Data Type | Description |
-|---||---||---|
-| Song Name | string | |
-| Genre | string | |
-|Duration(seconds)|int| |
-|Album|string| |
+|----------|----------|------------|
+| Song name | string | The name of the song |
+| Genre | string | Genre of the song |
+| Duration | int      | How long the song lasts |
+| Album    | string   | The album  |
 
 ## Methods
 | Method | Description |
