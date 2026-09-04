@@ -15,7 +15,7 @@ A song is a short piece of music with words that people sing
 
 ## Methods
 | Method | Description |
-|-———————|-———————————-|
+| -------| ----------- |
 | Play   | Plays the song |
 | Stop   | Stops the song |
 
