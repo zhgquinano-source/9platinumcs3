@@ -12,7 +12,7 @@ A song is a short piece of music with words that people sing
 | Genre    | string   | Genre of the song |
 | Duration | int      | How long the song lasts |
 | Album    | string   | The album where the song belongs |
-| Artist   | string   | The people who created the song |
+| Artist   | string   | The person/people who created the song |
 
 ## Methods
 | Method | Description |
