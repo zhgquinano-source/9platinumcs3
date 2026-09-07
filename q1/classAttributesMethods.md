@@ -17,7 +17,8 @@ No major changes were needed from my original design.
 | artist    | string    | Public     | Users need to know who created the song. |
 
 ## Updated UML Class Diagram
-![Class Diagram](images/classDiagramSG5.png)
+<img width="2880" height="1619" alt="image" src="https://github.com/user-attachments/assets/5915daa8-221f-48c8-a9bb-ab75793f21f7" />
+
 
 ## Python Implementation
 [View Python Source](classImplementation.py)
