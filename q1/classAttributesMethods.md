@@ -17,16 +17,16 @@ No major changes were needed from my original design.
 | artist    | string    | Public     | Users need to know who created the song. |
 
 ## Updated UML Class Diagram
-[Class Diagram](classDiagramSG5.png)
+![Class Diagram](images/classDiagramSG5.png)
 
 ## Python Implementation
 [View Python Source](classImplementation.py)
 
 ## Test Run
-[Test Run](classTestRun.png)
+![Test Run](images/classTestRun.png)
 
 ## Object Diagram
-[Object Diagram](objectDiagram.png)
+![Object Diagram](images/objectDiagram.png)
 
 
 ## Analysis
