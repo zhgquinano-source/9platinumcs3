@@ -17,17 +17,16 @@ No major changes were needed from my original design.
 | artist    | string    | Public     | Users need to know who created the song. |
 
 ## Updated UML Class Diagram
-<img width="2880" height="1619" alt="image" src="https://github.com/user-attachments/assets/5915daa8-221f-48c8-a9bb-ab75793f21f7" />
-
+[Class Diagram](classDiagramSG5.png)
 
 ## Python Implementation
 [View Python Source](classImplementation.py)
 
 ## Test Run
-classTestRun.png
+[Test Run](classTestRun.png)
 
 ## Object Diagram
-![Object Diagram](<img width="1485" height="876" alt="image" src="https://github.com/user-attachments/assets/5508c0c4-4ac4-4421-8dda-dc0c4cef33c2" />)
+[Object Diagram](objectDiagram.png)
 
 
 ## Analysis
