@@ -8,17 +8,17 @@ A song is a short piece of music with words that people sing
 ## Properties
 | Property | Data Type | Description |
 |----------|----------|------------|
-| Song name | string  | The name of the song |
-| Genre    | string   | Genre of the song |
-| Duration | int      | How long the song lasts |
-| Album    | string   | The album where the song belongs |
-| Artist   | string   | The person/people who created the song |
+| + Song name | string  | The name of the song |
+| + Genre    | string   | Genre of the song |
+| - Duration | int      | How long the song lasts |
+| + Album    | string   | The album where the song belongs |
+| + Artist   | string   | The person/people who created the song |
 
 ## Methods
 | Method | Description |
 | -------| ----------- |
-| Play song | Plays the song |
-| Stop song | Stops the song |
+| + Play song() | Plays the song |
+| + Stop song() | Stops the song |
 
 ## Class Diagram
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/17e2acfa-150a-4f49-b1b2-d3da02839c0f" />
