@@ -24,10 +24,11 @@ No major changes were needed from my original design.
 [View Python Source](classImplementation.py)
 
 ## Test Run
-![Test Run](images/classTestRun.png)
+classTestRun.png
 
 ## Object Diagram
-![Object Diagram](images/objectDiagram.png)
+![Object Diagram](<img width="1485" height="876" alt="image" src="https://github.com/user-attachments/assets/5508c0c4-4ac4-4421-8dda-dc0c4cef33c2" />)
+
 
 ## Analysis
 ### Why did you make your chosen attribute private?
