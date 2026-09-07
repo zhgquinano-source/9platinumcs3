@@ -9,7 +9,7 @@ No major changes were needed from my original design.
 
 ## Visibility Decisions
 | Attribute | Data Type | Visibility | Reason |
-|-——————————|——————————-|———————————-|——————--|
+| --------- | --------- | ---------- | ------ |
 | songName  | string    | Public     | Users need to identify the song. |
 | genre     | string    | Public     | Users may need to know or access the song genre. |
 | duration  | int       | Private    | The duration should be protected from invalid values. |
