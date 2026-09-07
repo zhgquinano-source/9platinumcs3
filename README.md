@@ -20,5 +20,5 @@
 ### OOPact
 [SG4 OOP concept:)](q1/classObjectUML.md)
 
-### OPPact Part 2
-[SG5 Class Attributes and Methods :/](q1/classAttributesMethods.md)
+### OOPact Part 2
+[SG5 Class Attributes and Methods:/](q1/classAttributesMethods.md)
