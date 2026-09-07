@@ -17,5 +17,8 @@
 ### OOP concept
 [ILA 3-1: Applying the Four Pillars of OOP:D](q1/ila_oop.md)
 
-### OOP act
+### OOPact
 [SG4 OOP concept:)](q1/classObjectUML.md)
+
+### OPPact Part 2
+[SG5 Class Attributes and Methods :/](q1/classAttributesMethods.md)
