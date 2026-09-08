@@ -15,10 +15,10 @@
 [View my Chinese Zodiac Activity:>](q1/zodiacPlatinumQuinano.md)
 
 ### OOP concept
-[ILA 3-1: Applying the Four Pillars of OOP:D](q1/ila_oop.md)
+[View my ILA 3-1: Applying the Four Pillars of OOP:D](q1/ila_oop.md)
 
 ### OOPact
-[SG4 OOP concept:)](q1/classObjectUML.md)
+[View my SG4 OOP concept:)](q1/classObjectUML.md)
 
 ### OOPact Part 2
-[SG5 Class Attributes and Methods:/](q1/classAttributesMethods.md)
+[View my SG5 Class Attributes and Methods:/](q1/classAttributesMethods.md)
