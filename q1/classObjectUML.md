@@ -19,7 +19,7 @@ A song is a short piece of music with words that people sing
 | -------| ----------- |
 | + Play song() | Plays the song |
 | + Stop song() | Stops the song |
-| + SetVolume(volume: Integer) | Stops the song |
+| + SetVolume(volume: Integer) | Changes the volume of the song |
 
 ## Class Diagram
 <img width="2880" height="1619" alt="image" src="https://github.com/user-attachments/assets/c4bb1611-1e8d-493b-823c-032e179d247b" />
