@@ -47,7 +47,7 @@ I chose a multiplicity of 1..* because every song must have at least one artist.
 ### How did you implement the relationship in Python?
 
 ### Why did you store an object reference instead of copying its data?
-I stored an object reference because it allows the song to directly refer to the existing MusicArtist object. This avoids duplicating the artist's information, such as their name, and keeps the data consistent. If the artist's information.
+I stored an object reference because it allows the song to directly refer to the existing MusicArtist object. This avoids duplicating the artist's information, such as their name, and keeps the data consistent. If the artist's information is updated, the song will still refer to the same updated artist object.
 
 ### If your relationship uses many, why is a list appropriate?
 A list is appropriate because a song can have one or more artists, and a list can store multiple MusicArtist objects. It also makes it easy to add or access different artists associated with the song. This represents the 1..* multiplicity of the relationship clearly in Python.
