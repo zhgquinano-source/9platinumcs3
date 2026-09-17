@@ -2,7 +2,9 @@
 # Computer Science 3 Portfolio
 ## Info about me :)
 **Name:** Zach Henrie G. Quinano
+
 **Section:** Platinum
+
 **School Year:** 2026-2027
 
 ---
@@ -22,3 +24,6 @@
 
 ### OOPact Part 2
 [View my SG5 Class Attributes and Methods:/](q1/classAttributesMethods.md)
+
+### OOPact Part 3
+[View my SG6 Class Relationship>:( ](q1/classRelationship.md)
