@@ -73,9 +73,9 @@ print(f"Artist / Band: {band_artist.artist_name} ({band_artist.origin})")
 print(f"Total Albums Released: {band_artist.total_albums_released}")
 print(f"Associated Songs Count: {len(band_artist.songs)} (No association formed yet)")
 print("\nIndependent Objects Created:")
-print(f"- Song: {song_1.song_name} | Genre: {song_1.genre} | Duration: {song_1.duration} | Album: {song_1.album}")
-print(f"- Song: {song_2.song_name} | Genre: {song_2.genre} | Duration: {song_2.duration} | Album: {song_2.album}")
-print(f"- Song: {song_3.song_name} | Genre: {song_3.genre} | Duration: {song_3.duration} | Album: {song_3.album}")
+print(f"- Song: {song_1.song_name} | Genre: {song_1.genre} | Album: {song_1.album}")
+print(f"- Song: {song_2.song_name} | Genre: {song_2.genre} | Album: {song_2.album}")
+print(f"- Song: {song_3.song_name} | Genre: {song_3.genre} | Album: {song_3.album}")
 
 # --- BUILDING RELATIONSHIP ---
 print("\n--- BUILDING RELATIONSHIP ---")
@@ -94,8 +94,7 @@ print(f"Total Albums Released: {band_artist.total_albums_released}")
 print("-" * 65)
 print("Related object(s) accessed through the relationship:")
 for song in band_artist.songs:
-    print(f" > Song: {song.song_name} | Genre: {song.genre} | Duration: {song.duration} | Album: {song.album}")  # Fixed: song_.duration -> song.duration
-print("-" * 65)
+    print(f" > Song: {song.song_name} | Genre: {song.genre} | Album: {song.album}")
 
 band_artist.add_member("Zild Benitez")
 band_artist.release_album("ClapClapClap!")
