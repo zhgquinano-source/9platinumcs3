@@ -45,6 +45,7 @@ The association between Songs and Music Artists is that a music artist creates, 
 I chose a multiplicity of 1..* because every song must have at least one artist. A song can also have multiple artists when there is a collaboration between two or more performers or creators.
 
 ### How did you implement the relationship in Python?
+I gave the Artist class a songs attribute initialized as an empty list. Song objects are created separately, then linked to an artist using the add_song() method, which appends the Song object into that list. Since the list stores references to the actual Song objects, I can loop through band_artist.songs to access each song's real attributes.
 
 ### Why did you store an object reference instead of copying its data?
 I stored an object reference because it allows the song to directly refer to the existing MusicArtist object. This avoids duplicating the artist's information, such as their name, and keeps the data consistent. If the artist's information is updated, the song will still refer to the same updated artist object.
