@@ -26,4 +26,7 @@
 [View my SG5 Class Attributes and Methods:/](q1/classAttributesMethods.md)
 
 ### OOPact Part 3
-[View my SG6 Class Relationship>:( ](q1/classRelationships.md)
+[View my Class Relationships>:( ](q1/classRelationships.md)
+
+### OOPact Part 4
+[View my Advanced Relationships:| ](q1/advancedRelationships.md)
