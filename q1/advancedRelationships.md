@@ -1,5 +1,7 @@
 # Advanced Class Relationships
 ## Previous Activities
+[classObj](classObjectUML.md)
+
 [classAttrib](classAttributesMethods.md)
 
 [classRel](classRelationships.md)
