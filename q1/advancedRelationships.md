@@ -37,11 +37,11 @@ Explanation: An Album HAS-A list of Song objects. This is an Aggregation relatio
 
 ## Reflection
 
-### 1. Why did you choose your inheritance relationship? Explain why your child class is a type of your parent class.
-I chose CoverSong as a child class of Song because a cover IS-A song at its core. Tracks like "Do I Wanna Know?" performed by Hozier share common song properties like song_name, genre, duration, and artist with the original version by Arctic Monkeys. The child class represents a specific type of song performance that adds unique attributes such as cover_artist and tempo_change.
+## 1. Why did you choose your inheritance relationship? Explain why your child class is a type of your parent class.
+I chose CoverSong as a child class of Song because a cover IS-A song at its core. Tracks like "Do I Wanna Know?" covered by Hozier share common song properties like song_name, genre, duration, and artist with the original version by Arctic Monkeys. The child class represents a specific type of song performance that adds unique attributes such as cover_artist and tempo_change.
 
-### 2. How did inheritance reduce duplicate code? Identify attributes or methods that were reused.
-Inheritance allowed CoverSong to automatically inherit attributes like song_name, genre, duration, and artist, along with methods like play_song(), without having to write them again in the child class. Instead of re-creating shared methods from scratch, the child class reuses the parent class functionality directly.
+## 2. How did inheritance reduce duplicate code? Identify attributes or methods that were reused.
+Inheritance allowed RemixSong to reuse parent attributes (song_name, genre, duration, artist) and methods (play_song()) without re-declaring them. By calling super().__init__(), the child class leverages the base initialization logic directly, reducing structural redundancy across music tracks.
 
 ### 3. Why is your HAS-A relationship Composition or Aggregation? Explain the lifecycle relationship between the two objects.
 My Album HAS-A Song relationship is Aggregation because Song objects exist independently of an Album. Deleting an album object from memory does not destroy individual song tracks. Standalone songs by Arctic Monkeys or Hozier remain intact in the system and can be added to playlists or released as singles.
