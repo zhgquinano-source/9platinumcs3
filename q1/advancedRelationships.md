@@ -7,8 +7,11 @@
 ## Existing System Description:
 ## Inheritance Relationship
 Parent:
+
 Child:
+
 Explanation:
+
 
 ## Inheritance UML
 ![Inheritance](images/inheritanceDiagram.png)
