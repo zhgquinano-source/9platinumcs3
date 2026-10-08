@@ -7,7 +7,7 @@
 [classRel](classRelationships.md)
 
 ## Existing System Description:
-The system models a music library ecosystem consisting of Song and Artist entities. It has been updated using Object-Oriented principles to handle specialized track types like cover songs, group tracks into albums, and simulate audio playback.
+The system models a music library ecosystem consisting of Song and Artist entities. It has been updated using Object-Oriented principles to handle specialized track types like cover songs and group tracks into albums.
 
 ## Inheritance Relationship
 Parent: Songs
