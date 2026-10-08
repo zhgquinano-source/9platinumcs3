@@ -45,7 +45,7 @@ a1 = BankAccount(a, c, b)
 a1.deposit(e)
 print(a1.get_balance())  
 a1.withdraw(d)  
-print(a1.accountinfo()) # An hypothetical example where all methods are used.
+print(a1.accountinfo()) # A hypothetical example where all methods are used.
 
 
 
