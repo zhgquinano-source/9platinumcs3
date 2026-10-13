@@ -8,6 +8,11 @@
 **School Year:** 2026-2027
 
 ---
+# Quarter 2
+## Activities
+### Computational Thinking Skills
+[Encapsulation Activity](q2/sg8_encapsulation.py)
+---
 # Quarter 1
 ## Activities
 ### Computational Thinking Skills
