@@ -25,7 +25,7 @@ class Publication:
         print(f"Title : {self._title}")
         print(f"Author : {self._author}")
 
-# Creates a class for the book info
+# Creates a class for the book info that inherits from publicazion class same with magazine class
 class Book(Publication):
     def __init__(self, title, author, number_of_pages):
         Publication.__init__(self, title, author)
