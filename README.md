@@ -10,7 +10,7 @@
 ---
 # Quarter 2
 ## Activities
-### Computational Thinking Skills
+### OOP
 [Encapsulation Activity](q2/sg8_encapsulation.py)
 
 [Inheritance Activity](q2/sg9_inheritance.py)
