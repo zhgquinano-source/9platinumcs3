@@ -81,7 +81,7 @@ mag2 = Magazine("Time Magazine", "Time Staff", 150)
 
 # Prints the final publication info
 print("Publication Information:")
-pub1.display_info()
+pub1.display_info() # Using display_info lets me print the info the class has
 print()
 pub2.display_info()
 
