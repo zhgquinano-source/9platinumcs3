@@ -10,9 +10,10 @@
 ---
 # Quarter 2
 ## Activities
-### OOP
+### OOP Encapsulation
 [Encapsulation Activity](q2/sg8_encapsulation.py)
 
+### OOP Inheritance
 [Inheritance Activity](q2/sg9_inheritance.py)
 
 
