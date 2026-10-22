@@ -15,7 +15,7 @@
 
 ### OOP Inheritance
 [Inheritance Activity](q2/sg9_inheritance.py)
-
+[Method Overriding Activity](q2/sg10_MethodOverriding.py)
 
 ---
 # Quarter 1
