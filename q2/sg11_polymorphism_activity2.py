@@ -10,7 +10,7 @@
 #How does the code in 2.2 demonstrate polymorphism?
 #The code demonstrates polymorphism (duck typing) because start_trip() accepts objects from unrelated classes (Car, Boat, and Drone). As long as each class implements the move() method, the function executes it based on behavior rather than class type.
 
-Actual Code:
+#Actual Code:
 class Car: # created a class for Car
     def move(self): # Method of Car
         print("The car drives on the road.")
