@@ -21,7 +21,7 @@ class Boat: # created a class for Boat
 
 class Drone: # created a class for Drone
     def move(self): # Method of Drone
-        print("The boat sails on water.")
+        print("The drone flies in the sky.")
 
 def start_trip(vehicle): # Function that takes a vehicle parameter and calls its move() method
     vehicle.move()
