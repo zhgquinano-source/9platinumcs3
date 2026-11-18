@@ -18,6 +18,11 @@
 
 [Method Overriding Activity](q2/sg10_MethodOverriding.py)
 
+### OOP Polymorphism
+[Enhanced Hospital Billing System Activity](q2/sg11_polymorphism_activity1.py)
+
+[Duck-Typing Activity](q2/sg11_polymorphism_activity2.py)
+
 ---
 # Quarter 1
 ## Activities
